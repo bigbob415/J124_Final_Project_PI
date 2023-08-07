@@ -20,3 +20,14 @@ According to WISQARS, 18 to 22-year-olds are most prone to injury in this order:
 
 ## Story Pitch
 
+## Sources
+
+I analyzed data from (https://www.cdc.gov/injury/wisqars/index.html)
+
+The WISQARS Fatal and Nonfatal Injury Reports come from https://wisqars.cdc.gov/reports/?o=NFI&y1=2020&y2=2020&d=0&i=0&m=3000&g=00&s=0&a=ALL&g1=0&g2=199&a1=0&a2=199&r1=INTENT&r2=NONE&r3=NONE&r4=NONE&adv=true
+
+My specific data filters come from https://wisqars.cdc.gov/reports/?o=NFI&y1=2001&y2=2020&d=0&i=0&m=3000&g=00&me=&s=0&r=&e=&a=custom&g1=0&g2=199&a1=18&a2=22&r1=INTENT&r2=RACETHN&r3=AGE&r4=SEX&adv=true
+
+This data comes from the CDC's website found here https://www.cdc.gov/
+
+### Interview Contacts as sources
