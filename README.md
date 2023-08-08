@@ -70,9 +70,45 @@ ADD IMAGE
 3) Calculated the percentage of unintentional injuries by race by using the formula (D3/D2) and changing it to percentage using the % button on the top toolbar.
 
 ##### Reasoning
-It is important to know the total number of young adults who are unintentionally injured as it is the most common injury in this demographic. Understanding the different impacts of unintentional injuries by race is also important. It puts the rest of the data into context.
+It is important to know the number of young adults unintentionally injured as it is the most common injury in this demographic. Understanding the different impacts of unintentional injuries by race is also important. It puts the rest of the data into context.
 
 
+#### Analysis 3: Injury Reports by Age and Sex
+
+ADD IMAGE
+
+##### Process
+1) Created a pivot table with the Estimated Number as the Value summarized by SUM. 
+2) Added Sex and Age to the Rows Column
+3) Organized by Ascending in terms of SUM of Estimated Number 
+
+##### Reasoning
+In this pivot table, it becomes apparent that age and sex both play a factor in all injuries in young adults. As people age, they are less likely to get injured, and males are more likely to get injured than females. This highlights important behavioral factors of younger people and males, which make them more prone to injury.
+
+#### Analysis 4: Sexual Assault by Sex
+
+ADD IMAGE
+
+##### Process
+1) Created a pivot table with the Estimated Number as the Value summarized by SUM. 
+2) Added Sex and Age to the Rows Column
+3) Filtered the data by Intent, only showing Sexual Assault
+4) Calculated Female Total/ Male Total or =C7/C13
+
+##### Reasoning
+This data shows that sexual assault occurs in women 88 times higher than in men. Hopefully, This huge margin could be explained by some extra sources and may introduce environmental factors that affect women more than men. 
+
+#### Analysis 5: Legal Intervention by Race, Sex, and Age
+
+ADD IMAGE
+
+##### Process
+1) Created a pivot table with the Estimated Number as the Value summarized by SUM. 
+2) Added Race/Ethnicity, Sex, and Age to the Rows
+3) Filtered the data by Intent, only showing Legal Intervention
+
+##### Reasoning
+This data shows that Black people are more likely to be injured during Legal Intervention. This adds several things to my story, including aspects of police brutality in the United States and environmental issues facing young people.
 
 ## Data Visualization
 
