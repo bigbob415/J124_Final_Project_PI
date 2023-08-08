@@ -28,12 +28,12 @@ The WISQARS Fatal and Nonfatal Injury Reports come from https://wisqars.cdc.gov/
 
 My specific data filters come from here:  https://wisqars.cdc.gov/reports/?o=NFI&y1=2001&y2=2020&d=0&i=0&m=3000&g=00&me=&s=0&r=&e=&a=custom&g1=0&g2=199&a1=18&a2=22&r1=INTENT&r2=RACETHN&r3=AGE&r4=SEX&adv=true
 
-This data comes from the CDC's website found here https://www.cdc.gov/
+This data comes from this data chart downloaded from the WISQARS website: [“Injury Reports 18-22”]((Injury Counts 18-22.csv))
 
 ### Interview Contacts as sources
 1) Robyn Papathakis Shannon, PsyD: Behavioral Health Provider
     * Email: rpshannon@berkeley.edu
-    * Dr. Shannon is a Behavior Health Provider for the Tang Health Care Center at Berkeley. She works specifically in Behavior Health and with college-aged people. She could provide insight into why injury rates are so high for this demographic and the behavioral reasoning behind it.
+    * Dr. Shannon is a Behavior Health Provider for the Tang Health Care Center at Berkeley. She works specifically in Behavior Health and with college-aged people. She could explain why injury rates are so high for this demographic and the behavioral reasoning behind it.
 2) Ryan Romeiser MD: Urgent Care
     * Email: ryanromeiser@berkeley.edu
     * Dr. Romeiser would also provide interesting insight into injury reports. Dr. Romeiser also works in the Tang Center but as an Urgent Care Doctor. Instead of providing the behavioral reasoning behind large injury counts, Dr. Romeiser could tell what types of injuries he usually treats in young people.
@@ -41,7 +41,7 @@ This data comes from the CDC's website found here https://www.cdc.gov/
     * Email: telltang@berkeley.edu
     * Phone: (510) 642-2000
     * Address: 222 Bancroft Way University of California Berkeley, CA 94720-4300
-    * Aside from contacting the specific doctors. I could email or visit the Tang Center and gather information from nurses and doctors about college-aged patients. While a small, targetted group not representative of all 18 to 22-year-olds in the United States, the Tang Center would provide valuable medical insight and professional help in understanding this large issue.
+    * Aside from contacting the specific doctors. I could email or visit the Tang Center and gather information from nurses and doctors about college-aged patients. While a small, targeted group not representative of all 18 to 22-year-olds in the United States, the Tang Center would provide valuable medical insight and professional help in understanding this large issue.
 
 
 ## Data Analysis
