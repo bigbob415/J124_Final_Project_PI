@@ -61,7 +61,7 @@ This data comes from this data chart downloaded from the WISQARS website: [Injur
 
 ## Data Analysis
 
-#### Analysis 1: Injuries by Intent
+#### Analysis 1a: Injuries by Intent
 
 <img width="229" alt="Screen Shot 2023-08-08 at 9 51 15 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/bf397958-4daa-4e44-9e2d-388b39139ad1">
 
@@ -72,6 +72,20 @@ This data comes from this data chart downloaded from the WISQARS website: [Injur
 
 ##### Reasoning
 This is important for understanding the major causes of injuries among young adults. While Unintentional injury is vastly larger than the others, assault and self-harm also affect millions of young people and would require more research for me to report on.
+
+#### Analysis 1b: Injuries by Frequency of Estimated Number
+
+<img width="444" alt="Screen Shot 2023-08-09 at 1 39 39 PM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/643bf4e2-9eb3-4ed3-932b-37d0eed51dde">
+
+
+##### Process
+1) Highlighted column E (Estimated Number)
+2) Clicked the Data Button, then sort the sheet
+3) Sorted the Sheet by Z-A: Largest values to smallest
+
+##### Reasoning
+After determining the estimated numbers for the top 5 injuries reported, I wanted to know which injuries are the most common for each sex, race, and intent. I sorted the sheet by the highest estimated number and recorded the top 30 injuries and demographics were injured.
+
 
 #### Analysis 2: Unintentional Injuries by Race
 
@@ -84,7 +98,7 @@ This is important for understanding the major causes of injuries among young adu
 3) Calculated the percentage of unintentional injuries by race by using the formula (D3/D2) and changing it to percentage using the % button on the top toolbar.
 
 ##### Reasoning
-It is important to know the number of young adults unintentionally injured as it is the most common injury in this demographic. Understanding the different impacts of unintentional injuries by race is also important. It puts the rest of the data into context.
+It is important to know the number of young adults unintentionally injured as it is the most common injury in this demographic. Understanding the different impacts of unintentional injuries by race is also important. It puts the data table found above into context.
 
 
 #### Analysis 3: Injury Reports by Age and Sex
