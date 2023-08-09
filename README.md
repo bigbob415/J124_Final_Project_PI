@@ -23,7 +23,7 @@ According to WISQARS, 18 to 22-year-olds are most prone to injury in this order:
 
 
 #### Data Used
-I analyzed data from here: [“WISQARS Website”]((https://www.cdc.gov/injury/wisqars/index.html))
+I analyzed data from here: [“WISQARS Website”] https://www.cdc.gov/injury/wisqars/index.html))
 
 The WISQARS Fatal and Nonfatal Injury Reports come from https://wisqars.cdc.gov/reports/?o=NFI&y1=2020&y2=2020&d=0&i=0&m=3000&g=00&s=0&a=ALL&g1=0&g2=199&a1=0&a2=199&r1=INTENT&r2=NONE&r3=NONE&r4=NONE&adv=true
 
@@ -45,8 +45,18 @@ This data comes from this data chart downloaded from the WISQARS website: [“In
     * Aside from contacting the specific doctors. I could email or visit the Tang Center and gather information from nurses and doctors about college-aged patients. While a small, targeted group not representative of all 18 to 22-year-olds in the United States, the Tang Center would provide valuable medical insight and professional help in understanding this large issue.
 
 #### Additional Sources
-1) Data Source 1
-2) Data Source 2
+1) National Alliance on Mental Health
+      * https://www.nami.org/mhstats
+      * This source provides statistics on mental health issues of all people, but more importantly, my story gives statistics for young people.
+      * This source can help explain why there is such a high self-injury count for people of this demographic.
+2) Round Midnight
+      * https://www.roundmidnight.org.uk/understanding-the-challenges-young-people-face-in-2021-and-beyond/
+      * This UK-based educational and arts company lays out several important issues that young people face in the modern age.
+      * This information can help me understand why high injury counts would be so common in the young demographic.
+3) Office of Juvenile Justice and Delinquency Prevention
+      * https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2&selYrs=2020&rdoGroups=2&rdoData=c
+      * A part of my story is about injuries caused by legal intervention, and part of that comes from arrests.
+      * To understand more about youth arrest statistics, I can consult the OJJDP's statistics to understand who and why jueveniles are arrested.
 
 ## Data Analysis
 
@@ -117,6 +127,11 @@ This data shows that sexual assault occurs in women 88 times higher than in men.
 This data shows that Black people are more likely to be injured during Legal Intervention. This adds several things to my story, including aspects of police brutality in the United States and environmental issues facing young people.
 
 ## Data Visualization
+
+1) https://datawrapper.dwcdn.net/VOoHq/2/
+
+![VOoHq-legal-intervention-injury-results-by-race-for-people-in-the-united-states-ages-18-22-between-2001-2020 (1)](https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/9e836aaa-0200-479e-a5ea-4eee1abe5c16)
+
 
 
 ## Story Pitch
