@@ -23,13 +23,13 @@ According to WISQARS, 18 to 22-year-olds are most prone to injury in this order:
 
 
 #### Data Used
-I analyzed data from here: [“WISQARS Website”] https://www.cdc.gov/injury/wisqars/index.html
+I analyzed data from here: [WISQARS Website](https://www.cdc.gov/injury/wisqars/index.html)
 
-The WISQARS Fatal and Nonfatal Injury Reports come from https://wisqars.cdc.gov/reports/?o=NFI&y1=2020&y2=2020&d=0&i=0&m=3000&g=00&s=0&a=ALL&g1=0&g2=199&a1=0&a2=199&r1=INTENT&r2=NONE&r3=NONE&r4=NONE&adv=true
+The WISQARS Fatal and Nonfatal Injury Reports come from [Nonfatal Injury Reports](https://wisqars.cdc.gov/reports/?o=NFI&y1=2020&y2=2020&d=0&i=0&m=3000&g=00&s=0&a=ALL&g1=0&g2=199&a1=0&a2=199&r1=INTENT&r2=NONE&r3=NONE&r4=NONE&adv=true)
 
-My specific data filters come from here:  https://wisqars.cdc.gov/reports/?o=NFI&y1=2001&y2=2020&d=0&i=0&m=3000&g=00&me=&s=0&r=&e=&a=custom&g1=0&g2=199&a1=18&a2=22&r1=INTENT&r2=RACETHN&r3=AGE&r4=SEX&adv=true
+My specific data filters come from [here](https://wisqars.cdc.gov/reports/?o=NFI&y1=2001&y2=2020&d=0&i=0&m=3000&g=00&me=&s=0&r=&e=&a=custom&g1=0&g2=199&a1=18&a2=22&r1=INTENT&r2=RACETHN&r3=AGE&r4=SEX&adv=true)
 
-This data comes from this data chart downloaded from the WISQARS website: [Injury Counts 18-22.csv](https://github.com/bigbob415/J124_Final_Project_PI/files/12306421/Injury.Counts.18-22.csv)
+This data comes from this data chart downloaded from the [Injury Counts of 18 to 22-Year Olds](https://github.com/bigbob415/J124_Final_Project_PI/files/12306421/Injury.Counts.18-22.csv)
 
 
 #### Interview Contacts as sources
@@ -47,17 +47,17 @@ This data comes from this data chart downloaded from the WISQARS website: [Injur
 
 #### Additional Sources
 1) National Alliance on Mental Health
-      * https://www.nami.org/mhstats
+      * [National Alliance on Mental Health](https://www.nami.org/mhstats)
       * This source provides statistics on mental health issues of all people, but more importantly, my story gives statistics for young people.
       * This source can help explain why there is such a high self-injury count for people of this demographic.
 2) Round Midnight
-      * https://www.roundmidnight.org.uk/understanding-the-challenges-young-people-face-in-2021-and-beyond/
+      * [Round Midnight](https://www.roundmidnight.org.uk/understanding-the-challenges-young-people-face-in-2021-and-beyond/)
       * This UK-based educational and arts company lays out several important issues that young people face in the modern age.
       * This information can help me understand why high injury counts would be so common in the young demographic.
 3) Office of Juvenile Justice and Delinquency Prevention
-      * https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2&selYrs=2020&rdoGroups=2&rdoData=c
+      * [OJJDP](https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2&selYrs=2020&rdoGroups=2&rdoData=c)
       * A part of my story is about injuries caused by legal intervention, and part of that comes from arrests.
-      * To understand more about youth arrest statistics, I can consult the OJJDP's statistics to understand who and why jueveniles are arrested.
+      * To understand more about youth arrest statistics, I can consult the OJJDP's statistics to understand who and why juveniles are arrested.
 
 ## Data Analysis
 
@@ -143,11 +143,11 @@ This data shows that Black people are more likely to be injured during Legal Int
 
 ## Data Visualization
 
-1) https://datawrapper.dwcdn.net/VOoHq/2/
+1) [Data Visualization 1](https://datawrapper.dwcdn.net/VOoHq/2/)
 
 ![VOoHq-legal-intervention-injury-results-by-race-for-people-in-the-united-states-ages-18-22-between-2001-2020 (1)](https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/9e836aaa-0200-479e-a5ea-4eee1abe5c16)
 
-2) https://datawrapper.dwcdn.net/vebdi/1/
+2) [Data Visualization 2](https://datawrapper.dwcdn.net/vebdi/1/)
 
 ![vebdi-sexual-assault-injuries-based-on-sex-in-the-united-states-between-the-ages-of-18-22](https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/f3d0e0f4-bed3-4278-9e4b-0f232343d7ee)
 
@@ -156,10 +156,10 @@ This data shows that Black people are more likely to be injured during Legal Int
 
 #### Why do we see such high injury reports in the 18 to 22-year-old demographic? Is it because college-aged students are particularly reckless?
 
-The CDC's data shows that 18 to 22-year-olds reports the second most injuries out of any demographic in the United States following the 85+ demographic. My story hopes to explain the WISQARS injury reports and attempt to justify why some many young people report so many injuries. I will look into the behavioral aspects of college aged students by reaching out to the Tang Center doctors to discover the reasons behind many of the "unintentional" injury reports.
+The CDC's data shows that 18 to 22-year-olds report the second most injuries out of any demographic in the United States, following the 85+ demographic. My story hopes to explain the WISQARS injury reports and attempt to justify why many young people report so many injuries. I will look into the behavioral aspects of college-aged students by contacting the Tang Center doctors to discover the reasons behind many of the "unintentional" injury reports.
 
-I will also try to explain many injuries as part of greater scope of issues facing the youth culture in the United States. There are mental health problems and envionmental issues that impact young peoples and impact their physical health. Thus, this may not simply be behavioral recklessness which causes a majority of these injuries.
+I will also try to explain many injuries as part of the greater scope of issues facing the youth culture in the United States. There are mental health problems and environmental issues that impact young people and impact their physical health. Thus, this may not simply be behavioral recklessness that causes a majority of these injuries.
 
-My final part of the story will discuss many of the disparities in the data by different demographics such as race and sex. In my two data visualizations above I explore some of these disparities. I would like to unpack why Black Americans are at greater risk of Legal Intervention injuries and why females are at a greater risk of sexual assualt injuries.
+My final part of the story will discuss many of the disparities in the data by different demographics, such as race and sex. In my two data visualizations above, I explore some of these disparities. I would like to unpack why Black Americans are at greater risk of Legal Intervention injuries and why females are at a greater risk of sexual assault injuries.
 
-Therefore, the aim of this story is to fully encapsulate the injuries which face people my age. I would like to disect this data in hopes of understanding my peers and the mental and physical barriers which would lead to us getting hurt.
+Therefore, the aim of this story is to encapsulate the injuries which face people my age fully. I would like to dissect this data to understand my peers and the mental and physical barriers that would lead to us getting hurt.
