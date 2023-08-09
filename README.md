@@ -19,7 +19,7 @@ This story aims to explain the causes and commonalities of injuries among colleg
 According to WISQARS, 18 to 22-year-olds are most prone to injury in this order: unintentional injury, assault, sexual assault, legal intervention, and self-harm. Legal intervention refers to "injuries inflicted by the police or other law enforcing agencies, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal actions. Excludes injuries caused by civil insurrections." This definition comes straight from the CDC.
 
 
-## Sources<img width="387" alt="Screen Shot 2023-08-08 at 10 42 16 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/37c8e4de-e538-4bf3-91c5-919403157447">
+## Sources
 
 
 #### Data Used
