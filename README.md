@@ -52,7 +52,8 @@ This data comes from this data chart downloaded from the WISQARS website: [“In
 
 #### Analysis 1: Injuries by Intent
 
-ADD Image
+<img width="229" alt="Screen Shot 2023-08-08 at 9 51 15 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/bf397958-4daa-4e44-9e2d-388b39139ad1">
+
 
 ##### Process
 1) Created a pivot table with the values set to Estimated Number summarized by SUM.
@@ -63,7 +64,8 @@ This is important for understanding the major causes of injuries among young adu
 
 #### Analysis 2: Unintentional Injuries by Race
 
-ADD IMAGE
+<img width="529" alt="Screen Shot 2023-08-08 at 10 13 45 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/332ed9ee-7a7d-4f65-a2bf-3ce5a7d33335">
+
 
 ##### Process
 1) Created a pivot table with the values set to Estimated Number summarized by SUM. The Rows were sorted by Race/Ethnicity, Intent, and Population.
@@ -76,7 +78,8 @@ It is important to know the number of young adults unintentionally injured as it
 
 #### Analysis 3: Injury Reports by Age and Sex
 
-ADD IMAGE
+<img width="508" alt="Screen Shot 2023-08-08 at 11 45 10 PM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/5db761f6-dc06-4cd5-822b-6c015ca9a1b9">
+
 
 ##### Process
 1) Created a pivot table with the Estimated Number as the Value summarized by SUM. 
@@ -88,7 +91,8 @@ In this pivot table, it becomes apparent that age and sex both play a factor in 
 
 #### Analysis 4: Sexual Assault by Sex
 
-ADD IMAGE
+<img width="539" alt="Screen Shot 2023-08-08 at 10 41 47 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/63a0150a-0763-4971-b131-b9b95d8a5d82">
+
 
 ##### Process
 1) Created a pivot table with the Estimated Number as the Value summarized by SUM. 
@@ -101,7 +105,8 @@ This data shows that sexual assault occurs in women 88 times higher than in men.
 
 #### Analysis 5: Legal Intervention by Race, Sex, and Age
 
-ADD IMAGE
+<img width="387" alt="Screen Shot 2023-08-08 at 10 42 16 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/b2b7ef17-8861-4e32-9b58-e987b30576ab">
+
 
 ##### Process
 1) Created a pivot table with the Estimated Number as the Value summarized by SUM. 
