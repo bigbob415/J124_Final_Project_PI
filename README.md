@@ -120,6 +120,10 @@ Analysis 2 takes into account the population of each demographic. When finding t
 ##### Reasoning
 In this pivot table, it becomes apparent that age and sex both play a factor in all injuries in young adults. As people age, they are less likely to get injured, and males are more likely to get injured than females. This highlights important behavioral factors of younger people and males, which make them more prone to injury.
 
+##### What does this mean?
+The data shows that in every age group, men are much more likely to be injured than females. Therefore, this may suggest that males have different behavioral, social, or environmental factors which may increase their risk of injury.
+
+
 #### Analysis 4: Sexual Assault by Sex
 
 <img width="539" alt="Screen Shot 2023-08-08 at 10 41 47 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/63a0150a-0763-4971-b131-b9b95d8a5d82">
@@ -134,6 +138,10 @@ In this pivot table, it becomes apparent that age and sex both play a factor in 
 ##### Reasoning
 This data shows that sexual assault occurs in women 88 times higher than in men. Hopefully, This huge margin could be explained by some extra sources and may introduce environmental factors that affect women more than men. 
 
+##### What does this mean?
+Despite males having a much higher injury count, this data shows that sexual assault injuries are much more common in females. Hundreds of thousands of reports come from females affected by sexual violence, whereas males only have a total of a little over three thousand. In the WISQARS data, this was one of the biggest disparities.
+
+
 #### Analysis 5: Legal Intervention by Race, Sex, and Age
 
 <img width="387" alt="Screen Shot 2023-08-08 at 10 42 16 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/b2b7ef17-8861-4e32-9b58-e987b30576ab">
@@ -146,6 +154,10 @@ This data shows that sexual assault occurs in women 88 times higher than in men.
 
 ##### Reasoning
 This data shows that Black people are more likely to be injured during Legal Intervention. This adds several things to my story, including aspects of police brutality in the United States and environmental issues facing young people.
+
+##### What does this mean?
+Analysis 5 shows that Black Americans are more likely to be injured during Legal Intervention, accumulating 90,297 injury reports. White Non-Hispanic people report 71,491, thousands of reports lower even though their population is bigger. 
+
 
 ## Data Visualization
 
