@@ -73,7 +73,7 @@ This data comes from this data chart downloaded from the [Injury Counts of 18 to
 ##### Reasoning
 This is important for understanding the major causes of injuries among young adults. While Unintentional injury is vastly larger than the others, assault and self-harm also affect millions of young people and would require more research for me to report on.
 
-#### Analysis 1b: Injuries by Frequency of Estimated Number
+#### Analysis 1b: Who Gets Injured the Most
 
 <img width="444" alt="Screen Shot 2023-08-09 at 1 39 39 PM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/643bf4e2-9eb3-4ed3-932b-37d0eed51dde">
 
@@ -89,13 +89,13 @@ After determining the estimated numbers for the top 5 injuries reported, I wante
 
 #### Analysis 2: Unintentional Injuries by Race
 
-<img width="529" alt="Screen Shot 2023-08-08 at 10 13 45 AM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/332ed9ee-7a7d-4f65-a2bf-3ce5a7d33335">
+<img width="454" alt="Screen Shot 2023-08-09 at 7 50 40 PM" src="https://github.com/bigbob415/J124_Final_Project_PI/assets/140004449/6f2c2148-da13-4d74-9ac3-87562713e04e">
 
 
 ##### Process
 1) Created a pivot table with the values set to Estimated Number summarized by SUM. The Rows were sorted by Race/Ethnicity, Intent, and Population.
 2) Added a filter that sorted Intent by only showing Unintentional.
-3) Calculated the percentage of unintentional injuries by race by using the formula (D3/D2) and changing it to percentage using the % button on the top toolbar.
+3) Calculated the percentage of unintentional injuries by race by using the formula (e3/d2) and changing it to percentage using the % button on the top toolbar.
 
 ##### Reasoning
 It is important to know the number of young adults unintentionally injured as it is the most common injury in this demographic. Understanding the different impacts of unintentional injuries by race is also important. It puts the data table found above into context.
