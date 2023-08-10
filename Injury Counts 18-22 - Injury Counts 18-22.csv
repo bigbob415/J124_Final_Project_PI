@@ -1,0 +1,287 @@
+Intent,Race/Ethnicity,Age,Sex,Estimated Number,Population,Crude Rate,Age-Adjusted Rate,Cases (Sample),Standard Error,CV,Lower 95% CI,Upper 95% CI
+Unintentional,White Non-Hispanic,18,Males,"3,220,157","25,666,425","12,546.19",--,"43,448","305,265",9.50%,2.62 M,3.82 M
+Unintentional,White Non-Hispanic,18,Females,"2,282,192","24,356,168","9,370.08",--,"30,816","212,134",9.30%,1.87 M,2.70 M
+Unintentional,White Non-Hispanic,18,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,White Non-Hispanic,19,Males,"2,994,605","25,795,433","11,609.05",--,"40,508","275,945",9.20%,2.45 M,3.54 M
+Unintentional,White Non-Hispanic,19,Females,"2,191,807","24,578,842","8,917.45",--,"29,046","203,770",9.30%,1.79 M,2.59 M
+Unintentional,White Non-Hispanic,19,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,White Non-Hispanic,20,Males,"2,959,855","25,739,596","11,499.23",--,"39,672","271,674",9.20%,2.43 M,3.49 M
+Unintentional,White Non-Hispanic,20,Females,"2,103,930","24,617,502","8,546.48",--,"27,862","197,397",9.40%,1.72 M,2.49 M
+Unintentional,White Non-Hispanic,20,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,White Non-Hispanic,21,Males,"2,955,465","25,752,705","11,476.33",--,"39,383","277,290",9.40%,2.41 M,3.50 M
+Unintentional,White Non-Hispanic,21,Females,"2,093,931","24,719,187","8,470.87",--,"27,622","194,761",9.30%,1.71 M,2.48 M
+Unintentional,White Non-Hispanic,21,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,White Non-Hispanic,22,Males,"2,850,913","25,636,872","11,120.36",--,"37,858","275,010",9.60%,2.31 M,3.39 M
+Unintentional,White Non-Hispanic,22,Females,"1,995,637","24,696,185","8,080.75",--,"26,325","186,190",9.30%,1.63 M,2.36 M
+Unintentional,White Non-Hispanic,22,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Black,18,Males,"719,982","7,178,431","10,029.79",--,"16,508","103,530",14.40%,"517,063","922,901"
+Unintentional,Black,18,Females,"571,041","6,946,878","8,220.10",--,"13,070","81,308",14.20%,"411,676","730,405"
+Unintentional,Black,18,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Black,19,Males,"700,563","7,160,000","9,784.40",--,"14,941","103,795",14.80%,"497,125","904,002"
+Unintentional,Black,19,Females,"599,849","6,969,626","8,606.62",--,"12,708","89,854",15.00%,"423,736","775,963"
+Unintentional,Black,19,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Black,20,Males,"714,697","7,072,029","10,105.97",--,"14,784","109,848",15.40%,"499,396","929,999"
+Unintentional,Black,20,Females,"604,680","6,928,795","8,727.06",--,"12,712","95,161",15.70%,"418,165","791,196"
+Unintentional,Black,20,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Black,21,Males,"711,170","7,002,727","10,155.62",--,"14,496","112,018",15.80%,"491,615","930,726"
+Unintentional,Black,21,Females,"620,668","6,917,143","8,972.90",--,"12,837","98,719",15.90%,"427,179","814,158"
+Unintentional,Black,21,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Black,22,Males,"689,966","6,883,384","10,023.65",--,"14,448","112,429",16.30%,"469,606","910,326"
+Unintentional,Black,22,Females,"660,895","6,849,627","9,648.63",--,"13,413","107,706",16.30%,"449,792","871,999"
+Unintentional,Black,22,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Hispanic,18,Males,"439,120","8,529,071","5,148.51",--,"7,937","104,935",23.90%,"233,448","644,792"
+Unintentional,Hispanic,18,Females,"276,723","7,862,610","3,519.48",--,"5,066","73,277",26.50%,"133,100","420,347"
+Unintentional,Hispanic,18,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Hispanic,19,Males,"450,426","8,599,891","5,237.58",--,"7,725","108,698",24.10%,"237,378","663,474"
+Unintentional,Hispanic,19,Females,"286,772","7,824,688","3,664.97",--,"4,800","77,114",26.90%,"135,630","437,915"
+Unintentional,Hispanic,20,Males,"464,589","8,644,870","5,374.16",--,"7,813","111,604",24.00%,"245,846","683,333"
+Unintentional,Hispanic,20,Females,"283,326","7,769,894","3,646.45",--,"4,734","74,670",26.40%,"136,973","429,678"
+Unintentional,Hispanic,20,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Hispanic,21,Males,"490,557","8,675,620","5,654.43",--,"8,218","109,077",22.20%,"276,767","704,347"
+Unintentional,Hispanic,21,Females,"291,561","7,742,188","3,765.87",--,"4,893","77,244",26.50%,"140,162","442,960"
+Unintentional,Hispanic,21,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Hispanic,22,Males,"481,923","8,713,044","5,531.05",--,"8,109","104,314",21.60%,"277,468","686,378"
+Unintentional,Hispanic,22,Females,"276,698","7,707,688","3,589.89",--,"4,665","72,709",26.30%,"134,188","419,208"
+Unintentional,Hispanic,22,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Other Non-Hispanic,18,Males,"147,233","2,692,011","5,469.25",--,"2,483","41,629",28.30%,"65,641","228,825"
+Unintentional,Other Non-Hispanic,18,Females,"99,056","2,593,232","3,819.81",--,"1,754","27,587",27.80%,"44,986","153,127"
+Unintentional,Other Non-Hispanic,19,Males,"141,722","2,783,547","5,091.40",--,"2,314","39,703",28.00%,"63,903","219,540"
+Unintentional,Other Non-Hispanic,19,Females,"94,690","2,682,694","3,529.65",--,"1,629","26,132",27.60%,"43,470","145,909"
+Unintentional,Other Non-Hispanic,20,Males,"145,290","2,825,608","5,141.90",--,"2,323","39,456",27.20%,"67,956","222,624"
+Unintentional,Other Non-Hispanic,20,Females,--,"2,740,273",--,--,--,--,--,--,--
+Unintentional,Other Non-Hispanic,20,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Other Non-Hispanic,21,Males,"141,731","2,888,930","4,906.01",--,"2,237","41,072",29.00%,"61,230","222,232"
+Unintentional,Other Non-Hispanic,21,Females,"106,457","2,807,506","3,791.89",--,"1,691","31,919",30.00%,"43,896","169,018"
+Unintentional,Other Non-Hispanic,22,Males,"132,825","2,952,537","4,498.67",--,"2,096","37,435",28.20%,"59,452","206,197"
+Unintentional,Other Non-Hispanic,22,Females,"99,537","2,874,786","3,462.40",--,"1,598","29,025",29.20%,"42,648","156,426"
+Unintentional,Other Non-Hispanic,22,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Not Stated,18,Males,"1,413,800",--,--,--,"24,366","276,775",19.60%,"871,321",1.96 M
+Unintentional,Not Stated,18,Females,"1,044,452",--,--,--,"17,342","230,514",22.10%,"592,646",1.50 M
+Unintentional,Not Stated,18,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Not Stated,19,Males,"1,413,532",--,--,--,"24,164","285,679",20.20%,"853,601",1.97 M
+Unintentional,Not Stated,19,Females,"1,025,903",--,--,--,"17,392","226,622",22.10%,"581,724",1.47 M
+Unintentional,Not Stated,19,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Not Stated,20,Males,"1,407,175",--,--,--,"23,864","284,572",20.20%,"849,413",1.96 M
+Unintentional,Not Stated,20,Females,"1,051,482",--,--,--,"17,534","232,718",22.10%,"595,354",1.51 M
+Unintentional,Not Stated,20,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Not Stated,21,Males,"1,417,513",--,--,--,"24,132","282,073",19.90%,"864,650",1.97 M
+Unintentional,Not Stated,21,Females,"1,047,232",--,--,--,"17,429","226,140",21.60%,"603,998",1.49 M
+Unintentional,Not Stated,21,Unknown,--,--,--,--,--,--,--,--,--
+Unintentional,Not Stated,22,Males,"1,354,146",--,--,--,"22,797","263,010",19.40%,"838,646",1.87 M
+Unintentional,Not Stated,22,Females,"1,009,489",--,--,--,"16,673","214,076",21.20%,"589,901",1.43 M
+Unintentional,Not Stated,22,Unknown,--,--,--,--,--,--,--,--,--
+Assault - Other,White Non-Hispanic,18,Males,"230,681","25,666,425",898.76,--,"3,376","26,177",11.30%,"179,374","281,987"
+Assault - Other,White Non-Hispanic,18,Females,"123,516","24,356,168",507.13,--,"1,702","12,113",9.80%,"99,774","147,259"
+Assault - Other,White Non-Hispanic,19,Males,"244,628","25,795,433",948.34,--,"3,481","24,654",10.10%,"196,306","292,950"
+Assault - Other,White Non-Hispanic,19,Females,"129,058","24,578,842",525.08,--,"1,737","12,527",9.70%,"104,505","153,611"
+Assault - Other,White Non-Hispanic,20,Males,"248,935","25,739,596",967.13,--,"3,542","26,280",10.60%,"197,427","300,443"
+Assault - Other,White Non-Hispanic,20,Females,"143,897","24,617,502",584.53,--,"1,897","16,177",11.20%,"112,190","175,604"
+Assault - Other,White Non-Hispanic,21,Males,"275,780","25,752,705","1,070.88",--,"3,946","26,757",9.70%,"223,335","328,225"
+Assault - Other,White Non-Hispanic,21,Females,"156,065","24,719,187",631.35,--,"2,021","17,969",11.50%,"120,846","191,283"
+Assault - Other,White Non-Hispanic,22,Males,"243,393","25,636,872",949.38,--,"3,427","22,866",9.40%,"198,576","288,210"
+Assault - Other,White Non-Hispanic,22,Females,"146,909","24,696,185",594.87,--,"1,900","16,081",10.90%,"115,390","178,428"
+Assault - Other,Black,18,Males,"176,685","7,178,431","2,461.33",--,"4,270","40,628",23.00%,"97,055","256,315"
+Assault - Other,Black,18,Females,"120,982","6,946,878","1,741.53",--,"2,852","24,078",19.90%,"73,789","168,175"
+Assault - Other,Black,18,Unknown,--,--,--,--,--,--,--,--,--
+Assault - Other,Black,19,Males,"179,250","7,160,000","2,503.49",--,"4,115","42,079",23.50%,"96,774","261,726"
+Assault - Other,Black,19,Females,"125,750","6,969,626","1,804.26",--,"2,693","24,185",19.20%,"78,348","173,153"
+Assault - Other,Black,19,Unknown,--,--,--,--,--,--,--,--,--
+Assault - Other,Black,20,Males,"176,908","7,072,029","2,501.52",--,"4,059","41,485",23.40%,"95,598","258,218"
+Assault - Other,Black,20,Females,"123,567","6,928,795","1,783.39",--,"2,619","24,265",19.60%,"76,007","171,127"
+Assault - Other,Black,21,Males,"181,666","7,002,727","2,594.22",--,"4,116","40,269",22.20%,"102,740","260,593"
+Assault - Other,Black,21,Females,"134,322","6,917,143","1,941.87",--,"2,746","27,294",20.30%,"80,826","187,818"
+Assault - Other,Black,21,Unknown,--,--,--,--,--,--,--,--,--
+Assault - Other,Black,22,Males,"177,732","6,883,384","2,582.04",--,"3,980","42,716",24.00%,"94,009","261,455"
+Assault - Other,Black,22,Females,"132,237","6,849,627","1,930.58",--,"2,744","25,966",19.60%,"81,344","183,131"
+Assault - Other,Hispanic,18,Males,--,"8,529,071",--,--,--,--,--,--,--
+Assault - Other,Hispanic,18,Females,--,"7,862,610",--,--,--,--,--,--,--
+Assault - Other,Hispanic,19,Males,--,"8,599,891",--,--,--,--,--,--,--
+Assault - Other,Hispanic,19,Females,--,"7,824,688",--,--,--,--,--,--,--
+Assault - Other,Hispanic,20,Males,--,"8,644,870",--,--,--,--,--,--,--
+Assault - Other,Hispanic,20,Females,--,"7,769,894",--,--,--,--,--,--,--
+Assault - Other,Hispanic,21,Males,--,"8,675,620",--,--,--,--,--,--,--
+Assault - Other,Hispanic,21,Females,--,"7,742,188",--,--,--,--,--,--,--
+Assault - Other,Hispanic,22,Males,--,"8,713,044",--,--,--,--,--,--,--
+Assault - Other,Hispanic,22,Females,--,"7,707,688",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,18,Males,--,"2,692,011",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,18,Females,--,"2,593,232",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,19,Males,--,"2,783,547",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,19,Females,--,"2,682,694",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,20,Males,--,"2,825,608",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,20,Females,--,"2,740,273",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,21,Males,--,"2,888,930",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,21,Females,--,"2,807,506",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,22,Males,--,"2,952,537",--,--,--,--,--,--,--
+Assault - Other,Other Non-Hispanic,22,Females,--,"2,874,786",--,--,--,--,--,--,--
+Assault - Other,Not Stated,18,Males,"141,007",--,--,--,"2,752","25,868",18.30%,"90,306","191,709"
+Assault - Other,Not Stated,18,Females,"79,586",--,--,--,"1,524","15,038",18.90%,"50,112","109,061"
+Assault - Other,Not Stated,18,Unknown,--,--,--,--,--,--,--,--,--
+Assault - Other,Not Stated,19,Males,"154,433",--,--,--,"2,998","29,939",19.40%,"95,753","213,113"
+Assault - Other,Not Stated,19,Females,"85,623",--,--,--,"1,623","15,431",18.00%,"55,379","115,868"
+Assault - Other,Not Stated,19,Unknown,--,--,--,--,--,--,--,--,--
+Assault - Other,Not Stated,20,Males,"157,329",--,--,--,"2,973","30,171",19.20%,"98,193","216,465"
+Assault - Other,Not Stated,20,Females,"90,789",--,--,--,"1,729","16,434",18.10%,"58,578","123,000"
+Assault - Other,Not Stated,20,Unknown,--,--,--,--,--,--,--,--,--
+Assault - Other,Not Stated,21,Males,"179,124",--,--,--,"3,354","35,676",19.90%,"109,199","249,050"
+Assault - Other,Not Stated,21,Females,"93,874",--,--,--,"1,799","16,903",18.00%,"60,744","127,005"
+Assault - Other,Not Stated,22,Males,"167,867",--,--,--,"3,249","29,235",17.40%,"110,566","225,168"
+Assault - Other,Not Stated,22,Females,"92,658",--,--,--,"1,787","16,415",17.70%,"60,484","124,832"
+Assault - Sexual,White Non-Hispanic,18,Males,"1,359","25,666,425",5.3,--,22,360,26.50%,654,"2,064"
+Assault - Sexual,White Non-Hispanic,18,Females,"31,425","24,356,168",129.02,--,464,"5,554",17.70%,"20,539","42,311"
+Assault - Sexual,White Non-Hispanic,19,Males,"1,655","25,795,433",6.42,--,26,410,24.80%,852,"2,458"
+Assault - Sexual,White Non-Hispanic,19,Females,"27,483","24,578,842",111.81,--,415,"4,448",16.20%,"18,765","36,200"
+Assault - Sexual,White Non-Hispanic,20,Males,--,"25,739,596",--,--,--,--,--,--,--
+Assault - Sexual,White Non-Hispanic,20,Females,"20,978","24,617,502",85.21,--,305,"3,499",16.70%,"14,119","27,837"
+Assault - Sexual,White Non-Hispanic,21,Males,--,"25,752,705",--,--,--,--,--,--,--
+Assault - Sexual,White Non-Hispanic,21,Females,"24,143","24,719,187",97.67,--,354,"4,030",16.70%,"16,244","32,042"
+Assault - Sexual,White Non-Hispanic,22,Males,--,"25,636,872",--,--,--,--,--,--,--
+Assault - Sexual,White Non-Hispanic,22,Females,"20,083","24,696,185",81.32,--,298,"2,841",14.10%,"14,514","25,652"
+Assault - Sexual,Black,18,Males,--,"7,178,431",--,--,--,--,--,--,--
+Assault - Sexual,Black,18,Females,"13,464","6,946,878",193.82,--,316,"2,509",18.60%,"8,548","18,381"
+Assault - Sexual,Black,19,Males,--,"7,160,000",--,--,--,--,--,--,--
+Assault - Sexual,Black,19,Females,"11,062","6,969,626",158.72,--,321,"2,454",22.20%,"6,253","15,872"
+Assault - Sexual,Black,20,Males,--,"7,072,029",--,--,--,--,--,--,--
+Assault - Sexual,Black,20,Females,"10,630","6,928,795",153.42,--,258,"1,877",17.70%,"6,950","14,310"
+Assault - Sexual,Black,21,Males,--,"7,002,727",--,--,--,--,--,--,--
+Assault - Sexual,Black,21,Females,"11,561","6,917,143",167.14,--,268,"2,288",19.80%,"7,076","16,046"
+Assault - Sexual,Black,22,Males,--,"6,883,384",--,--,--,--,--,--,--
+Assault - Sexual,Black,22,Females,"9,470","6,849,627",138.26,--,249,"2,140",22.60%,"5,276","13,664"
+Assault - Sexual,Hispanic,18,Males,--,"8,529,071",--,--,--,--,--,--,--
+Assault - Sexual,Hispanic,18,Females,--,"7,862,610",--,--,--,--,--,--,--
+Assault - Sexual,Hispanic,19,Males,--,"8,599,891",--,--,--,--,--,--,--
+Assault - Sexual,Hispanic,19,Females,--,"7,824,688",--,--,--,--,--,--,--
+Assault - Sexual,Hispanic,20,Males,--,"8,644,870",--,--,--,--,--,--,--
+Assault - Sexual,Hispanic,20,Females,"3,995","7,769,894",51.42,--,72,"1,135",28.40%,"1,771","6,220"
+Assault - Sexual,Hispanic,21,Males,--,"8,675,620",--,--,--,--,--,--,--
+Assault - Sexual,Hispanic,21,Females,"3,225","7,742,188",41.65,--,56,893,27.70%,"1,474","4,975"
+Assault - Sexual,Hispanic,22,Males,--,"8,713,044",--,--,--,--,--,--,--
+Assault - Sexual,Hispanic,22,Females,"2,768","7,707,688",35.91,--,51,727,26.30%,"1,342","4,193"
+Assault - Sexual,Other Non-Hispanic,18,Females,--,"2,593,232",--,--,--,--,--,--,--
+Assault - Sexual,Other Non-Hispanic,19,Males,--,"2,783,547",--,--,--,--,--,--,--
+Assault - Sexual,Other Non-Hispanic,19,Females,"1,230","2,682,694",45.84,--,27,362,29.40%,520,"1,939"
+Assault - Sexual,Other Non-Hispanic,20,Females,--,"2,740,273",--,--,--,--,--,--,--
+Assault - Sexual,Other Non-Hispanic,21,Males,--,"2,888,930",--,--,--,--,--,--,--
+Assault - Sexual,Other Non-Hispanic,21,Females,--,"2,807,506",--,--,--,--,--,--,--
+Assault - Sexual,Other Non-Hispanic,22,Females,--,"2,874,786",--,--,--,--,--,--,--
+Assault - Sexual,Not Stated,18,Males,--,--,--,--,--,--,--,--,--
+Assault - Sexual,Not Stated,18,Females,"16,493",--,--,--,359,"4,110",24.90%,"8,436","24,549"
+Assault - Sexual,Not Stated,19,Males,--,--,--,--,--,--,--,--,--
+Assault - Sexual,Not Stated,19,Females,"17,625",--,--,--,378,"4,106",23.30%,"9,576","25,673"
+Assault - Sexual,Not Stated,20,Males,--,--,--,--,--,--,--,--,--
+Assault - Sexual,Not Stated,20,Females,"14,623",--,--,--,304,"3,205",21.90%,"8,341","20,905"
+Assault - Sexual,Not Stated,21,Males,--,--,--,--,--,--,--,--,--
+Assault - Sexual,Not Stated,21,Females,"13,891",--,--,--,288,"3,037",21.90%,"7,939","19,844"
+Assault - Sexual,Not Stated,22,Males,--,--,--,--,--,--,--,--,--
+Assault - Sexual,Not Stated,22,Females,"13,164",--,--,--,281,"3,464",26.30%,"6,375","19,953"
+Legal Intervention,White Non-Hispanic,18,Males,"10,625","25,666,425",41.4,--,133,"1,843",17.30%,"7,013","14,237"
+Legal Intervention,White Non-Hispanic,18,Females,"1,538","24,356,168",6.32,--,23,335,21.80%,881,"2,196"
+Legal Intervention,White Non-Hispanic,19,Males,"11,727","25,795,433",45.46,--,154,"2,083",17.80%,"7,645","15,809"
+Legal Intervention,White Non-Hispanic,19,Females,"2,268","24,578,842",9.23,--,29,581,25.60%,"1,130","3,407"
+Legal Intervention,White Non-Hispanic,20,Males,"10,139","25,739,596",39.39,--,141,"1,228",12.10%,"7,733","12,546"
+Legal Intervention,White Non-Hispanic,20,Females,"2,030","24,617,502",8.24,--,26,478,23.60%,"1,092","2,967"
+Legal Intervention,White Non-Hispanic,21,Males,"13,404","25,752,705",52.05,--,185,"1,996",14.90%,"9,492","17,315"
+Legal Intervention,White Non-Hispanic,21,Females,"3,049","24,719,187",12.33,--,37,615,20.20%,"1,843","4,255"
+Legal Intervention,White Non-Hispanic,22,Males,"13,509","25,636,872",52.69,--,194,"1,702",12.60%,"10,174","16,845"
+Legal Intervention,White Non-Hispanic,22,Females,"3,202","24,696,185",12.97,--,40,624,19.50%,"1,978","4,426"
+Legal Intervention,Black,18,Males,"13,160","7,178,431",183.33,--,244,"2,977",22.60%,"7,324","18,996"
+Legal Intervention,Black,18,Females,"3,101","6,946,878",44.64,--,52,817,26.30%,"1,500","4,702"
+Legal Intervention,Black,19,Males,"15,510","7,160,000",216.62,--,319,"3,695",23.80%,"8,269","22,751"
+Legal Intervention,Black,19,Females,"1,629","6,969,626",23.38,--,38,376,23.10%,892,"2,367"
+Legal Intervention,Black,20,Males,"17,174","7,072,029",242.85,--,310,"4,561",26.60%,"8,235","26,113"
+Legal Intervention,Black,20,Females,"2,624","6,928,795",37.87,--,49,658,25.10%,"1,335","3,913"
+Legal Intervention,Black,21,Males,"14,515","7,002,727",207.27,--,264,"3,256",22.40%,"8,132","20,897"
+Legal Intervention,Black,21,Females,"3,008","6,917,143",43.49,--,56,747,24.80%,"1,545","4,472"
+Legal Intervention,Black,22,Males,"16,265","6,883,384",236.29,--,327,"4,125",25.40%,"8,179","24,351"
+Legal Intervention,Black,22,Females,"3,311","6,849,627",48.34,--,52,791,23.90%,"1,761","4,862"
+Legal Intervention,Hispanic,18,Males,"3,947","8,529,071",46.27,--,63,"1,073",27.20%,"1,844","6,049"
+Legal Intervention,Hispanic,18,Females,--,"7,862,610",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,19,Males,--,"8,599,891",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,19,Females,--,"7,824,688",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,20,Males,--,"8,644,870",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,20,Females,--,"7,769,894",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,21,Males,--,"8,675,620",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,21,Females,--,"7,742,188",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,22,Males,--,"8,713,044",--,--,--,--,--,--,--
+Legal Intervention,Hispanic,22,Females,--,"7,707,688",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,18,Males,--,"2,692,011",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,18,Females,--,"2,593,232",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,19,Males,--,"2,783,547",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,19,Females,--,"2,682,694",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,20,Males,--,"2,825,608",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,20,Females,--,"2,740,273",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,21,Males,--,"2,888,930",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,21,Females,--,"2,807,506",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,22,Males,--,"2,952,537",--,--,--,--,--,--,--
+Legal Intervention,Other Non-Hispanic,22,Females,--,"2,874,786",--,--,--,--,--,--,--
+Legal Intervention,Not Stated,18,Males,"7,768",--,--,--,180,"1,887",24.30%,"4,069","11,467"
+Legal Intervention,Not Stated,18,Females,"1,408",--,--,--,31,342,24.30%,737,"2,079"
+Legal Intervention,Not Stated,19,Males,"9,062",--,--,--,206,"2,085",23.00%,"4,975","13,149"
+Legal Intervention,Not Stated,19,Females,--,--,--,--,--,--,--,--,--
+Legal Intervention,Not Stated,20,Males,"11,723",--,--,--,235,"2,363",20.20%,"7,092","16,354"
+Legal Intervention,Not Stated,20,Females,"1,224",--,--,--,23,334,27.30%,569,"1,878"
+Legal Intervention,Not Stated,21,Males,"9,854",--,--,--,237,"1,973",20.00%,"5,987","13,721"
+Legal Intervention,Not Stated,21,Females,"2,012",--,--,--,36,429,21.30%,"1,172","2,852"
+Legal Intervention,Not Stated,22,Males,"11,070",--,--,--,241,"2,338",21.10%,"6,488","15,652"
+Legal Intervention,Not Stated,22,Females,"1,752",--,--,--,41,510,29.10%,752,"2,751"
+Self-Harm,White Non-Hispanic,18,Males,"63,706","25,666,425",248.21,--,866,"7,388",11.60%,"49,226","78,186"
+Self-Harm,White Non-Hispanic,18,Females,"104,592","24,356,168",429.43,--,"1,439","13,155",12.60%,"78,808","130,377"
+Self-Harm,White Non-Hispanic,18,Unknown,--,--,--,--,--,--,--,--,--
+Self-Harm,White Non-Hispanic,19,Males,"66,548","25,795,433",257.98,--,899,"7,936",11.90%,"50,993","82,103"
+Self-Harm,White Non-Hispanic,19,Females,"97,890","24,578,842",398.27,--,"1,273","12,655",12.90%,"73,086","122,693"
+Self-Harm,White Non-Hispanic,20,Males,"63,080","25,739,596",245.07,--,853,"7,972",12.60%,"47,455","78,706"
+Self-Harm,White Non-Hispanic,20,Females,"92,010","24,617,502",373.76,--,"1,207","10,935",11.90%,"70,577","113,442"
+Self-Harm,White Non-Hispanic,21,Males,"62,501","25,752,705",242.7,--,820,"6,791",10.90%,"49,191","75,811"
+Self-Harm,White Non-Hispanic,21,Females,"84,058","24,719,187",340.05,--,"1,094","8,858",10.50%,"66,697","101,420"
+Self-Harm,White Non-Hispanic,22,Males,"59,901","25,636,872",233.65,--,805,"6,315",10.50%,"47,523","72,279"
+Self-Harm,White Non-Hispanic,22,Females,"75,031","24,696,185",303.81,--,944,"9,052",12.10%,"57,288","92,773"
+Self-Harm,Black,18,Males,"8,171","7,178,431",113.82,--,201,"1,423",17.40%,"5,382","10,960"
+Self-Harm,Black,18,Females,"21,913","6,946,878",315.44,--,483,"3,330",15.20%,"15,386","28,441"
+Self-Harm,Black,19,Males,"11,102","7,160,000",155.06,--,248,"1,836",16.50%,"7,504","14,700"
+Self-Harm,Black,19,Females,"19,758","6,969,626",283.49,--,445,"3,222",16.30%,"13,444","26,073"
+Self-Harm,Black,20,Males,"10,555","7,072,029",149.25,--,233,"1,653",15.70%,"7,314","13,796"
+Self-Harm,Black,20,Females,"20,385","6,928,795",294.21,--,421,"3,341",16.40%,"13,837","26,933"
+Self-Harm,Black,21,Males,"11,631","7,002,727",166.09,--,224,"2,020",17.40%,"7,672","15,589"
+Self-Harm,Black,21,Females,"17,118","6,917,143",247.47,--,378,"2,502",14.60%,"12,214","22,022"
+Self-Harm,Black,22,Males,"10,919","6,883,384",158.62,--,228,"2,150",19.70%,"6,705","15,132"
+Self-Harm,Black,22,Females,"17,059","6,849,627",249.05,--,346,"3,096",18.10%,"10,991","23,127"
+Self-Harm,Hispanic,18,Males,"6,600","8,529,071",77.38,--,129,"1,399",21.20%,"3,859","9,341"
+Self-Harm,Hispanic,18,Females,"16,149","7,862,610",205.39,--,294,"4,077",25.20%,"8,157","24,140"
+Self-Harm,Hispanic,19,Males,"9,818","8,599,891",114.16,--,165,"2,611",26.60%,"4,699","14,936"
+Self-Harm,Hispanic,19,Females,"10,845","7,824,688",138.6,--,206,"2,613",24.10%,"5,724","15,966"
+Self-Harm,Hispanic,20,Males,"9,172","8,644,870",106.1,--,151,"2,340",25.50%,"4,587","13,758"
+Self-Harm,Hispanic,20,Females,"14,265","7,769,894",183.59,--,217,"3,398",23.80%,"7,605","20,924"
+Self-Harm,Hispanic,21,Males,"8,281","8,675,620",95.45,--,141,"2,473",29.90%,"3,434","13,127"
+Self-Harm,Hispanic,21,Females,--,"7,742,188",--,--,--,--,--,--,--
+Self-Harm,Hispanic,22,Males,"8,562","8,713,044",98.27,--,130,"2,257",26.40%,"4,138","12,986"
+Self-Harm,Hispanic,22,Females,"8,894","7,707,688",115.39,--,156,"2,528",28.40%,"3,939","13,849"
+Self-Harm,Other Non-Hispanic,18,Males,"2,487","2,692,011",92.39,--,36,589,23.70%,"1,332","3,642"
+Self-Harm,Other Non-Hispanic,18,Females,"4,598","2,593,232",177.31,--,87,"1,100",23.90%,"2,442","6,755"
+Self-Harm,Other Non-Hispanic,19,Males,--,"2,783,547",--,--,--,--,--,--,--
+Self-Harm,Other Non-Hispanic,19,Females,"4,503","2,682,694",167.84,--,83,"1,021",22.70%,"2,501","6,504"
+Self-Harm,Other Non-Hispanic,20,Males,--,"2,825,608",--,--,--,--,--,--,--
+Self-Harm,Other Non-Hispanic,20,Females,"4,468","2,740,273",163.06,--,82,"1,105",24.70%,"2,303","6,634"
+Self-Harm,Other Non-Hispanic,21,Males,--,"2,888,930",--,--,--,--,--,--,--
+Self-Harm,Other Non-Hispanic,21,Females,"4,493","2,807,506",160.03,--,54,"1,296",28.90%,"1,952","7,034"
+Self-Harm,Other Non-Hispanic,22,Males,--,"2,952,537",--,--,--,--,--,--,--
+Self-Harm,Other Non-Hispanic,22,Females,--,"2,874,786",--,--,--,--,--,--,--
+Self-Harm,Not Stated,18,Males,"23,520",--,--,--,415,"4,632",19.70%,"14,442","32,598"
+Self-Harm,Not Stated,18,Females,"47,896",--,--,--,800,"10,954",22.90%,"26,426","69,366"
+Self-Harm,Not Stated,19,Males,"27,217",--,--,--,461,"5,741",21.10%,"15,965","38,469"
+Self-Harm,Not Stated,19,Females,"43,144",--,--,--,746,"8,754",20.30%,"25,985","60,303"
+Self-Harm,Not Stated,20,Males,"25,986",--,--,--,437,"4,774",18.40%,"16,628","35,344"
+Self-Harm,Not Stated,20,Females,"37,746",--,--,--,644,"8,024",21.30%,"22,018","53,473"
+Self-Harm,Not Stated,21,Males,"28,708",--,--,--,466,"5,695",19.80%,"17,546","39,871"
+Self-Harm,Not Stated,21,Females,"33,660",--,--,--,588,"6,750",20.10%,"20,430","46,890"
+Self-Harm,Not Stated,22,Males,"22,561",--,--,--,387,"3,592",15.90%,"15,521","29,601"
+Self-Harm,Not Stated,22,Females,"30,291",--,--,--,526,"5,865",19.40%,"18,796","41,786"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Injury Outcome: Nonfatal All Injuries,,,,,,,,,,,,
+Data Years: 2001 to 2020,,,,,,,,,,,,
+Geography: United States,,,,,,,,,,,,
+Disposition: All Cases,,,,,,,,,,,,
+Intent: All Intents,,,,,,,,,,,,
+Mechanism: All Causes,,,,,,,,,,,,
+Age: 18 to 22,,,,,,,,,,,,
+Sex: All Sexes,,,,,,,,,,,,
+"Produced by: National Center for Injury Prevention and Control, CDC.",,,,,,,,,,,,
