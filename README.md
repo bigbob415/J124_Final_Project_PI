@@ -86,6 +86,9 @@ This is important for understanding the major causes of injuries among young adu
 ##### Reasoning
 After determining the estimated numbers for the top 5 injuries reported, I wanted to know which injuries are the most common for each sex, race, and intent. I sorted the sheet by the highest estimated number and recorded the top 30 injuries and demographics were injured.
 
+##### What does this mean?
+The 1a chart shows that unintentional injury reports are the most common by a large margin. Thus, I predicted the top thirty injuries by demographic would all be unintentional injuries. In 1b, I found that males are injured more than females in every race. Furthermore, White-Non Hispanic people are the most prone to injury, but this can be explained because White Non-Hispanic people are the largest race demographic in the US.
+
 
 #### Analysis 2: Unintentional Injuries by Race
 
@@ -99,6 +102,9 @@ After determining the estimated numbers for the top 5 injuries reported, I wante
 
 ##### Reasoning
 It is important to know the number of young adults unintentionally injured as it is the most common injury in this demographic. Understanding the different impacts of unintentional injuries by race is also important. It puts the data table found above into context.
+
+##### What does this mean?
+Analysis 2 takes into account the population of each demographic. When finding the percentage of unintentional injuries per the population, White Non-Hispanic people are more likely to be injured unintentionally despite having a much larger population.
 
 
 #### Analysis 3: Injury Reports by Age and Sex
